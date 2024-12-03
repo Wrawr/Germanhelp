@@ -9,7 +9,7 @@ dutch->german learning program.
 1. Create a new .json file in the "Lists" folder.
 2. Structure it like this:
     {
-"language":"THE LANGUAGE TO TRANSLATE TO"
+"language":"THE LANGUAGE TO TRANSLATE TO",
 "WORD 1 IN LANGUAGE A":"WORD 1 IN LANGUAGE B",
 "WORD 2 IN LANGUAGE A":"WORD 2 IN LANGUAGE B",
 etc

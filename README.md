@@ -16,6 +16,6 @@ etc
      }
 3. Make sure to remove the comma from the final word pair.
 
-(there is an example file in the lists folder already that you can use as a template.)
+(there is an example file in the "German help\Beta 3.1\Germanhelp Beta 3.1\(not required to function) Source code stuff\Germanhelp Beta 3.1\Lists" folder already that you can use as a template.)
 
 Your list should now be automatically detected by the program.
